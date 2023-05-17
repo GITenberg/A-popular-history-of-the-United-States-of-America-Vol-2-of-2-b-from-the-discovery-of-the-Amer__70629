@@ -1,0 +1,35 @@
+_repo: A-popular-history-of-the-United-States-of-America-Vol-2-of-2-b-from-the-discovery-of-the-Amer__70629
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Howitt, Mary (Mary Botham)
+    aliases:
+    - Hewitt, Mrs. (Mary Botham)
+    - Howitt, Mary Botham
+    birthdate: 1799
+    deathdate: 1888
+    gutenberg_agent_id: '5477'
+    url: http://www.gutenberg.org/2009/agents/5477
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Howitt
+description: ''
+gutenberg_issued: '2023-04-23'
+identifiers:
+  gutenberg: '70629'
+language: en
+pgterms:marc904: https://archive.org/details/popularhistoryof02howirich
+pgterms:marc905: 20190907105805howitt
+pgterms:marc906: '1860'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bHarper & Bros., $c1860.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History'
+- !lcc 'E151'
+- GITenberg
+title: 'A popular history of the United States of America, Vol. 2 (of 2) : $b from
+  the discovery of the American continent to the present time'
+url: http://www.gutenberg.org/ebooks/70629
