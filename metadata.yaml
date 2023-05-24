@@ -1,5 +1,8 @@
 _repo: A-popular-history-of-the-United-States-of-America-Vol-2-of-2-b-from-the-discovery-of-the-Amer__70629
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70629-h/images/cover.jpg
 creator:
   author:
     agent_name: Howitt, Mary (Mary Botham)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5477
     wikipedia: https://en.wikipedia.org/wiki/Mary_Howitt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70629#A-popular-history-of-the-United-States-of-America-Vol-2-of-2-b-from-the-discovery-of-the-Amer_
 gutenberg_issued: '2023-04-23'
 identifiers:
   gutenberg: '70629'
